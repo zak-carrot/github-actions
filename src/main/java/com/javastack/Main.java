@@ -1,7 +1,7 @@
 package com.javastack.cicd;
 
-import
-import com.javastack.SpringbootApplication; ...
+
+import com.javastack.SpringbootApplication;
 
 @SpringbootApplication
 public class Main {
